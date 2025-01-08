@@ -48,7 +48,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/C0DEWithEnzo/Fupro-y-Poo">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=C0DEWithEnzo&repo=Fupro-y-Poo&theme=tokyonight"/>
     	</a>
   </p>
 </div>
