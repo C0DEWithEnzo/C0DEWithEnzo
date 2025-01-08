@@ -59,5 +59,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/C0DEWithEnzo/C0DEWithEnzo/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/C0DEWithEnzo/C0DEWithEnzo/blob/output/github-contribution-grid-snake.svg?"/>
 </p>
