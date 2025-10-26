@@ -20,15 +20,15 @@
 ## 💬 Connect with me
 <div align="center">
   <a href="mailto:enzovalentinoelias@gmail.com" target="_blank">
-         <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
+       <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" style="border:0;" width="36"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/enzo-valentino-elias-b20ba2387/" target="_blank">
-     <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
+       <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" style="border:0;" width="36"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.github.com/C0DEWithEnzo" target="_blank">
-         <img src="https://skillicons.dev/icons?i=github&perline=14" />
+       <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" style="border:0;" width="36"/>
   </a>
 </div>
 
