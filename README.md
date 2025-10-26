@@ -12,8 +12,6 @@
 
 ## <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
 
-<br><br>
-
 - :school: I am a `Junior` at [Faculty of Engineering in Water Sciences](https://www.fich.unl.edu.ar) at [National University of Litoral](https://www.unl.edu.ar).
 - :student: I’m currently learning `Computer Engineering`.
 - :nerd_face: Always `learning new things`.
