@@ -7,9 +7,7 @@
 <br>
 
 ## 👤 About me
-
 <br>
-
 ## <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
 
 - :school: I am a `Junior` at [Faculty of Engineering in Water Sciences](https://www.fich.unl.edu.ar) at [National University of Litoral](https://www.unl.edu.ar).
