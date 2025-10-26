@@ -24,7 +24,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/enzo-valentino-elias-b20ba2387/" target="_blank">
-    <img src="https://img.shields.io/badge/Enzo Elias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Enzo%20Valentino%20Elias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.github.com/C0DEWithEnzo" target="_blank">
