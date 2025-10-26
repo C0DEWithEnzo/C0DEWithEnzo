@@ -4,7 +4,7 @@
 </p>
 <br>
 
-## <picture><img src = "https://www.flaticon.com/free-animated-icon/exclude_11260657?term=people&page=1&position=4&origin=tag&related_id=11260657" width = 50px></picture> About me
+## <picture><img src = "https://img.icons8.com/?size=100&id=u05i13Fgasru&format=png&color=000000 width = 50px"></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
