@@ -4,7 +4,7 @@
 </p>
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://www.flaticon.com/free-animated-icon/exclude_11260657?term=people&page=1&position=4&origin=tag&related_id=11260657" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## Connect with me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Connect with me
 <p align="center">
 <a href="mailto:enzovalentinoelias@gmail.com" target="blank">  <img align="center" src="https://img.shields.io/badge/enzovalentinoelias@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  </a>   &nbsp;&nbsp;&nbsp; <a href="https://www.github.com/C0DEWithEnzo" target="blank"><img align="center" src="https://img.shields.io/badge/C0DEWithEnzo-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
