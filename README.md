@@ -47,14 +47,6 @@
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-		
-<div>
-  <p align="center">
-	<a href="https://github.com/C0DEWithEnzo/Fupro-y-Poo">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=C0DEWithEnzo&repo=Fupro-y-Poo&theme=tokyonight"/>
-    	</a>
-  </p>
-</div>
 </details>
 
 </br></br>
