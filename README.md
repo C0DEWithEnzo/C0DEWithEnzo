@@ -28,7 +28,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.github.com/C0DEWithEnzo" target="_blank">
-    <img src="https://img.shields.io/badge/C0DEWithEnzo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+         <img src="https://skillicons.dev/icons?i=guthub&perline=14" />
   </a>
 </div>
 
