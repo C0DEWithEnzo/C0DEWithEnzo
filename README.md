@@ -16,7 +16,7 @@
 
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## Connect with me
 <p align="center">
 <a href="mailto:enzovalentinoelias@gmail.com" target="blank">  <img align="center" src="https://img.shields.io/badge/enzovalentinoelias@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  </a>   &nbsp;&nbsp;&nbsp; <a href="https://www.github.com/C0DEWithEnzo" target="blank"><img align="center" src="https://img.shields.io/badge/C0DEWithEnzo-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
