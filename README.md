@@ -20,7 +20,7 @@
 ## 💬 Connect with me
 <div align="center">
   <a href="mailto:enzovalentinoelias@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/enzovalentinoelias@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+         <img src="https://skillicons.dev/icons?i=envelope&perline=14" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/enzo-valentino-elias-b20ba2387/" target="_blank">
