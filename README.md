@@ -28,14 +28,14 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.github.com/C0DEWithEnzo" target="_blank">
-         <img src="https://skillicons.dev/icons?i=guthub&perline=14" />
+         <img src="https://skillicons.dev/icons?i=github&perline=14" />
   </a>
 </div>
 
 ## 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,vscode,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,vscode&perline=14" />
   </a>
 </p>
 
