@@ -18,10 +18,18 @@
 <br>
 
 ## 💬 Connect with me
-<div class="contact">
-        <a class="linkedin" href="https://www.linkedin.com/in/enzo-valentino-elias-b20ba2387/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-        <a class="github" href="https://github.com/C0DEWithEnzo" target="_blank"><i class="fa-brands fa-github"></i></a>
-        <a class="email" href="mailto:enzovalentinoelias@gmail.com" target="_blank"><i class="fa-solid fa-envelope"></i></a>
+<div align="center">
+  <a href="mailto:enzovalentinoelias@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/enzovalentinoelias@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/enzo-valentino-elias-b20ba2387/" target="_blank">
+    <img src="https://img.shields.io/badge/Enzo Elias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.github.com/C0DEWithEnzo" target="_blank">
+    <img src="https://img.shields.io/badge/C0DEWithEnzo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 ## 🛠️ Languages and Tools:
