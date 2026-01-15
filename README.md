@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=28&center=true&vCenter=true&width=700&height=70&lines=Road+to+Full-stack+Developer;Computer+Engineering+Student;Always+learning+new+things" alt="typing"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/C0DEWithEnzo"><img src="https://github.com/C0DEWithEnzo.png?size=200" width="120" style="border-radius:50%;" alt="profile"/></a>
-</p>
-
 ---
 
 ## 🔭 About Me
@@ -39,28 +35,6 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 ### Frameworks & Tools
 - React · Next.js · Node.js · Express · MySQL · Git · VS Code · Linux
 
----
-
-## 💪 Skills (visual)
-HTML / CSS
-[██████████] 85%
-
-JavaScript / TypeScript
-[█████████ ] 75%
-
-React / Front-end
-[████████  ] 70%
-
-Node.js / Back-end
-[███████   ] 60%
-
-C++ / Algorithms
-[██████    ] 50%
-
-(Replace the bars with images or shields if you prefer numeric percentages or animated indicators.)
-
----
-
 ## 🚀 Featured Projects
 > Replace images, descriptions and links with your real projects.
 
@@ -86,14 +60,6 @@ C++ / Algorithms
   <img src="https://github-readme-stats.vercel.app/api?username=C0DEWithEnzo&show_icons=true&theme=radical" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0DEWithEnzo&layout=compact&theme=radical" alt="top languages" />
 </p>
-
----
-
-## 🧭 How to Use / Customize
-1. Replace placeholder project images and project descriptions with your real projects and links.  
-2. Update the skill bars to match your self-assessed proficiency (or swap to numeric badges).  
-3. If you want animated or coloured progress bars, I can add shields.io-based badges or small SVG bars.  
-4. Add screenshots (recommended 600×300) or GIF demos for each project.
 
 ---
 
