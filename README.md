@@ -53,20 +53,10 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 - Features: Competitive programming utilities and benchmarks  
 ![project-placeholder](https://via.placeholder.com/600x200.png?text=Project+Three+Screenshot)
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C0DEWithEnzo&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0DEWithEnzo&layout=compact&theme=radical" alt="top languages" />
-</p>
-
----
-
 If you want, I can:
 - Convert the progress bars to shield badges or SVG progress bars,
 - Create polished project cards with live demo + repo buttons,
 - Add a custom color theme to match your personal branding,
 - Localize the README text to Spanish or bilingual (EN/ES).
 
-Which visual style do you prefer: colorful & bold, minimal & clean, or card/grid layout for projects?I'll update the file accordingly. 
+
