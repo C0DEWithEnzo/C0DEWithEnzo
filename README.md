@@ -36,7 +36,7 @@
 ## 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,vscode&perline=14,css&perline=14,html&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,vscode&perline=14" />
   </a>
 </p>
 
