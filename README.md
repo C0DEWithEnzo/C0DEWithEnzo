@@ -36,7 +36,6 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 - React · Next.js · Node.js · Express · MySQL · Git · VS Code · Linux
 
 ## 🚀 Featured Projects
-> Replace images, descriptions and links with your real projects.
 
 ### Project One — Responsive Web App
 - Tech: React · Node.js · MySQL
