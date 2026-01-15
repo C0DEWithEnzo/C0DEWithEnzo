@@ -1,100 +1,106 @@
-# Elias Enzo
-Junior Computer Engineering Student • Aspiring Full‑Stack Developer
+# Elias Enzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave">
 
----
-
-Professional, detail-oriented Computer Engineering student with a strong foundation in both front-end and back-end development. Passionate about building accessible, maintainable web applications and continuously learning modern tools and best practices. Seeking opportunities to contribute to meaningful projects and to grow as a full‑stack developer.
-
-## Quick Links
-- Website / Portfolio: (add your portfolio link)
-- Email: [enzovalentinoelias@gmail.com](mailto:enzovalentinoelias@gmail.com)
-- LinkedIn: [Enzo Valentino Elias](https://www.linkedin.com/in/enzo-valentino-elias-b20ba2387/)
-- GitHub: [C0DEWithEnzo](https://github.com/C0DEWithEnzo)
-
----
-
-## About Me
-I am a Junior at the Faculty of Engineering in Water Sciences (National University of Litoral), studying Computer Engineering. I enjoy solving problems through code, collaborating with peers, and learning modern web and software engineering techniques. My approach focuses on writing clear, testable code and continuously iterating to improve user experience.
-
-- Current status: Junior, Computer Engineering student
-- Interests: Full‑stack development, web technologies, algorithms, system design
-- Mindset: Growth-oriented — always learning and experimenting
-
----
-
-## Skills
-
-### Languages
-- JavaScript / TypeScript
-- Python
-- C++ / C
-- Java
-- SQL
-
-### Front-end / UI
-- HTML
-- CSS
-- React
-- Next.js
-- Redux
-
-### Back-end / Infrastructure
-- Node.js / Express
-- RESTful APIs
-- MySQL
-- Linux / Bash
-
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Docker (basic)
-- npm / yarn
-
----
-
-## Selected Technologies (visual)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,ts,py,cpp,git&perline=8" alt="technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=28&center=true&vCenter=true&width=700&height=70&lines=Road+to+Full-stack+Developer;Computer+Engineering+Student;Always+learning+new+things" alt="typing"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/C0DEWithEnzo"><img src="https://github.com/C0DEWithEnzo.png?size=200" width="120" style="border-radius:50%;" alt="profile"/></a>
 </p>
 
 ---
 
-## Projects
-(Include links / brief descriptions of 2–4 projects. Example placeholders below — replace with your actual projects.)
+## 🔭 About Me
+I’m a Junior Computer Engineering student at the Faculty of Engineering in Water Sciences, National University of Litoral. Passionate about building accessible, maintainable web apps and growing as a full-stack developer.
 
-- Project A — Responsive web application built with React and Node.js. Implements authentication, CRUD, and responsive UI.
-- Project B — Data processing tool written in Python that analyzes and visualizes dataset trends.
-- Project C — Small C++ utilities for algorithm practice and performance benchmarking.
-
-Each project includes a README with setup instructions, architecture notes, and sample screenshots.
+- 🎓 Current: Junior, Computer Engineering
+- 🌱 Learning: Full-stack web development, system design, clean code
+- 🔎 Interests: Web technologies, algorithms, performance, UX
 
 ---
 
-## Education
-- Faculty of Engineering in Water Sciences, National University of Litoral  
-  Degree: Computer Engineering (in progress) — Junior
+## 📫 Connect
+<p align="center">
+  <a href="mailto:enzovalentinoelias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/enzo-valentino-elias-b20ba2387/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/C0DEWithEnzo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-## How I Work
-- Write modular, maintainable code with readability and tests in mind
-- Prefer incremental improvements, code reviews, and collaborative design
-- Emphasize accessibility, performance, and responsive interfaces
+## 🛠️ Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,python,cpp,git,vscode&perline=8" alt="tech icons"/>
+</p>
+
+### Languages
+- HTML · CSS · JavaScript · TypeScript · Python · C++ · Java · SQL
+
+### Frameworks & Tools
+- React · Next.js · Node.js · Express · MySQL · Git · VS Code · Linux
 
 ---
 
-## Get in Touch
-I welcome collaboration, mentorship, and opportunities to contribute. If you'd like to connect, feel free to reach out via email or LinkedIn.
+## 💪 Skills (visual)
+HTML / CSS
+[██████████] 85%
+
+JavaScript / TypeScript
+[█████████ ] 75%
+
+React / Front-end
+[████████  ] 70%
+
+Node.js / Back-end
+[███████   ] 60%
+
+C++ / Algorithms
+[██████    ] 50%
+
+(Replace the bars with images or shields if you prefer numeric percentages or animated indicators.)
 
 ---
 
-## How to Contribute
-- Star or fork repositories you find useful
-- Open issues or pull requests with improvements or bug fixes
-- Contact me if you want to collaborate on a project
+## 🚀 Featured Projects
+> Replace images, descriptions and links with your real projects.
+
+### Project One — Responsive Web App
+- Tech: React · Node.js · MySQL
+- Features: Authentication, CRUD, Responsive UI  
+![project-placeholder](https://via.placeholder.com/600x200.png?text=Project+One+Screenshot)
+
+### Project Two — Data Analysis Tool
+- Tech: Python · pandas · matplotlib
+- Features: Data pipeline, visualizations  
+![project-placeholder](https://via.placeholder.com/600x200.png?text=Project+Two+Screenshot)
+
+### Project Three — Algorithms & Utilities
+- Tech: C++
+- Features: Competitive programming utilities and benchmarks  
+![project-placeholder](https://via.placeholder.com/600x200.png?text=Project+Three+Screenshot)
 
 ---
 
-## License
-This README and associated personal projects are typically shared under an open license; include your preferred license here (e.g., MIT).  
-(Replace this note with an actual license file if desired.)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=C0DEWithEnzo&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0DEWithEnzo&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+---
+
+## 🧭 How to Use / Customize
+1. Replace placeholder project images and project descriptions with your real projects and links.  
+2. Update the skill bars to match your self-assessed proficiency (or swap to numeric badges).  
+3. If you want animated or coloured progress bars, I can add shields.io-based badges or small SVG bars.  
+4. Add screenshots (recommended 600×300) or GIF demos for each project.
+
+---
+
+If you want, I can:
+- Convert the progress bars to shield badges or SVG progress bars,
+- Create polished project cards with live demo + repo buttons,
+- Add a custom color theme to match your personal branding,
+- Localize the README text to Spanish or bilingual (EN/ES).
+
+Which visual style do you prefer: colorful & bold, minimal & clean, or card/grid layout for projects?I'll update the file accordingly. 
