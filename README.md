@@ -1,53 +1,100 @@
-<div align="center">
-  <h1>Hi , I'm Elias Enzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Road+to+Full-stack+Developer;Computer+Engineering+Student;Always+learning+new+things">
-  </a>
-</div>
-<br>
+# Elias Enzo
+Junior Computer Engineering Student • Aspiring Full‑Stack Developer
 
-## 👤 About me
-<br>
+---
 
-<picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
+Professional, detail-oriented Computer Engineering student with a strong foundation in both front-end and back-end development. Passionate about building accessible, maintainable web applications and continuously learning modern tools and best practices. Seeking opportunities to contribute to meaningful projects and to grow as a full‑stack developer.
 
-- :school: I am a `Junior` at [Faculty of Engineering in Water Sciences](https://www.fich.unl.edu.ar) at [National University of Litoral](https://www.unl.edu.ar).
-- :student: I’m currently learning `Computer Engineering`.
-- :nerd_face: Always `learning new things`.
+## Quick Links
+- Website / Portfolio: (add your portfolio link)
+- Email: [enzovalentinoelias@gmail.com](mailto:enzovalentinoelias@gmail.com)
+- LinkedIn: [Enzo Valentino Elias](https://www.linkedin.com/in/enzo-valentino-elias-b20ba2387/)
+- GitHub: [C0DEWithEnzo](https://github.com/C0DEWithEnzo)
 
-<br>
+---
 
-## 💬 Connect with me
-<div align="center">
-  <a href="mailto:enzovalentinoelias@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/enzo-valentino-elias-b20ba2387/" target="_blank">
-    <img src="https://img.shields.io/badge/Enzo%20Valentino%20Elias-0A66C2?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC41IDJoLTE3QTEuNSAxLjUgMCAwMDIgMy41djE3QTEuNSAxLjUgMCAwMDMuNSAyMmgxN2ExLjUgMS41IDAgMDAxLjUtMS41di0xN0ExLjUgMS41IDAgMDAyMC41IDJ6TTggMTlINXYtOWgzem0tMS41LTIuNzVBMS43NSAxLjc1IDAgMTExLjI1IDYuNSAxLjc1IDEuNzUgMCAwMTEuNSA4LjI1ek0xOSAxOWgtM3YtNC43NGMwLTEuNDItLjYtMS45My0xLjM4LTEuOTMtLjc4IDAtMS42Mi41My0xLjYyIDEuOTNWMTloLTN2LTloMi45djEuM2EzLjEgMy4xIDAgMDEyLjgtMS42QzE4LjQgOS43IDE5IDExLjQgMTkgMTMuNXoiLz48L3N2Zz4%3D" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.github.com/C0DEWithEnzo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-</div>
+## About Me
+I am a Junior at the Faculty of Engineering in Water Sciences (National University of Litoral), studying Computer Engineering. I enjoy solving problems through code, collaborating with peers, and learning modern web and software engineering techniques. My approach focuses on writing clear, testable code and continuously iterating to improve user experience.
 
-## 🛠️ Languages and Tools:
+- Current status: Junior, Computer Engineering student
+- Interests: Full‑stack development, web technologies, algorithms, system design
+- Mindset: Growth-oriented — always learning and experimenting
+
+---
+
+## Skills
+
+### Languages
+- JavaScript / TypeScript
+- Python
+- C++ / C
+- Java
+- SQL
+
+### Front-end / UI
+- HTML
+- CSS
+- React
+- Next.js
+- Redux
+
+### Back-end / Infrastructure
+- Node.js / Express
+- RESTful APIs
+- MySQL
+- Linux / Bash
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Docker (basic)
+- npm / yarn
+
+---
+
+## Selected Technologies (visual)
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,vscode&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,ts,py,cpp,git&perline=8" alt="technologies" />
 </p>
 
-<br> 
+---
 
-## 👨🏻‍💻 Technologies I know
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,html,java,js,linux,mysql,nextjs,nodejs,py,react,redux,ts&perline=14" />
-  </a>
-</p>
+## Projects
+(Include links / brief descriptions of 2–4 projects. Example placeholders below — replace with your actual projects.)
 
-<br>
+- Project A — Responsive web application built with React and Node.js. Implements authentication, CRUD, and responsive UI.
+- Project B — Data processing tool written in Python that analyzes and visualizes dataset trends.
+- Project C — Small C++ utilities for algorithm practice and performance benchmarking.
+
+Each project includes a README with setup instructions, architecture notes, and sample screenshots.
+
+---
+
+## Education
+- Faculty of Engineering in Water Sciences, National University of Litoral  
+  Degree: Computer Engineering (in progress) — Junior
+
+---
+
+## How I Work
+- Write modular, maintainable code with readability and tests in mind
+- Prefer incremental improvements, code reviews, and collaborative design
+- Emphasize accessibility, performance, and responsive interfaces
+
+---
+
+## Get in Touch
+I welcome collaboration, mentorship, and opportunities to contribute. If you'd like to connect, feel free to reach out via email or LinkedIn.
+
+---
+
+## How to Contribute
+- Star or fork repositories you find useful
+- Open issues or pull requests with improvements or bug fixes
+- Contact me if you want to collaborate on a project
+
+---
+
+## License
+This README and associated personal projects are typically shared under an open license; include your preferred license here (e.g., MIT).  
+(Replace this note with an actual license file if desired.)
