@@ -5,6 +5,7 @@
 </p>
 
 ## 🔭 About Me
+
 I’m a Junior Computer Engineering student at the Faculty of Engineering in Water Sciences, National University of Litoral. Passionate about building accessible, maintainable web apps and growing as a full-stack developer.
 
 - 🎓 Current: Junior, Computer Engineering
@@ -13,6 +14,7 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 
 
 ## 📫 Connect
+
 <p align="center">
   <a href="mailto:enzovalentinoelias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/enzo-valentino-elias-b20ba2387/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -20,6 +22,7 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 </p>
 
 ## 🛠️ Technologies & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,cpp,git,vscode&perline=8" alt="tech icons"/>
 </p>
@@ -32,12 +35,4 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 
 
 ## 🚀 Featured Projects
-
-
-If you want, I can:
-- Convert the progress bars to shield badges or SVG progress bars,
-- Create polished project cards with live demo + repo buttons,
-- Add a custom color theme to match your personal branding,
-- Localize the README text to Spanish or bilingual (EN/ES).
-
 
