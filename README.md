@@ -4,16 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=28&center=true&vCenter=true&width=700&height=70&lines=Road+to+Full-stack+Developer;Computer+Engineering+Student;Always+learning+new+things" alt="typing"/>
 </p>
 
----
-
 ## 🔭 About Me
 I’m a Junior Computer Engineering student at the Faculty of Engineering in Water Sciences, National University of Litoral. Passionate about building accessible, maintainable web apps and growing as a full-stack developer.
 
 - 🎓 Current: Junior, Computer Engineering
 - 🌱 Learning: Full-stack web development, system design, clean code
 - 🔎 Interests: Web technologies, algorithms, performance, UX
-
----
 
 ## 📫 Connect
 <p align="center">
