@@ -35,6 +35,7 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 ### Frameworks & Tools
 - MySQL · Git · VS Code · Linux
 
+---
 ## 🚀 Featured Projects
 
 
