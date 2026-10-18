@@ -11,7 +11,6 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 - 🌱 Learning: Full-stack web development, system design, clean code
 - 🔎 Interests: Web technologies, algorithms, performance, UX
 
----
 
 ## 📫 Connect
 <p align="center">
@@ -31,7 +30,6 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 ### Frameworks & Tools
 - MySQL · Git · VS Code · Linux
 
----
 
 ## 🚀 Featured Projects
 
