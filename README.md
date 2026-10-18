@@ -30,10 +30,10 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 </p>
 
 ### Languages
-- HTML · CSS · JavaScript · TypeScript · Python · C++ · Java · SQL
+- HTML · CSS · Python · C++ · Java · SQL
 
 ### Frameworks & Tools
-- React · Next.js · Node.js · Express · MySQL · Git · VS Code · Linux
+- MySQL · Git · VS Code · Linux
 
 ## 🚀 Featured Projects
 
