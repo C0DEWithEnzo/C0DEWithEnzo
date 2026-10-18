@@ -26,7 +26,7 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 
 ## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,python,cpp,git,vscode&perline=8" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,python,cpp,git,vscode&perline=8" alt="tech icons"/>
 </p>
 
 ### Languages
@@ -37,20 +37,6 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 
 ## 🚀 Featured Projects
 
-### Project One — Responsive Web App
-- Tech: React · Node.js · MySQL
-- Features: Authentication, CRUD, Responsive UI  
-![project-placeholder](https://via.placeholder.com/600x200.png?text=Project+One+Screenshot)
-
-### Project Two — Data Analysis Tool
-- Tech: Python · pandas · matplotlib
-- Features: Data pipeline, visualizations  
-![project-placeholder](https://via.placeholder.com/600x200.png?text=Project+Two+Screenshot)
-
-### Project Three — Algorithms & Utilities
-- Tech: C++
-- Features: Competitive programming utilities and benchmarks  
-![project-placeholder](https://via.placeholder.com/600x200.png?text=Project+Three+Screenshot)
 
 If you want, I can:
 - Convert the progress bars to shield badges or SVG progress bars,
