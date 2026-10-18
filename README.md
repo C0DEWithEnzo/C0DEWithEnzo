@@ -11,6 +11,8 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 - 🌱 Learning: Full-stack web development, system design, clean code
 - 🔎 Interests: Web technologies, algorithms, performance, UX
 
+---
+
 ## 📫 Connect
 <p align="center">
   <a href="mailto:enzovalentinoelias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -28,6 +30,8 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 
 ### Frameworks & Tools
 - MySQL · Git · VS Code · Linux
+
+---
 
 ## 🚀 Featured Projects
 
