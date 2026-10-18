@@ -22,8 +22,6 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
   <a href="https://github.com/C0DEWithEnzo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
----
-
 ## 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,cpp,git,vscode&perline=8" alt="tech icons"/>
@@ -35,7 +33,6 @@ I’m a Junior Computer Engineering student at the Faculty of Engineering in Wat
 ### Frameworks & Tools
 - MySQL · Git · VS Code · Linux
 
----
 ## 🚀 Featured Projects
 
 
